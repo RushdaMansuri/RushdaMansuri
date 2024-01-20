@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Java, JavaScript and AWS Cloud Services. <br>I am a Full Stack Developer, will to collaborate on projects using with C#, MEAN, MERN stack.<br>
+As a Full Stack Developer, currently I am learning Java, JavaScript, and AWS Cloud Services. I am actively seeking opportunities to collaborate on innovative projects. My expertise extends to both front-end and back-end development, making me a versatile contributor in various technological environments. I am particularly interested in projects that utilize the C# programming language or are built on the MEAN (MongoDB, Express.js, Angular, Node.js) or MERN (MongoDB, Express.js, React, Node.js) stacks. My goal is to leverage my comprehensive skill set to contribute to dynamic, challenging projects, while also expanding my expertise in these cutting-edge technologies.<br>
 
 
 ## 🌐 Socials:
